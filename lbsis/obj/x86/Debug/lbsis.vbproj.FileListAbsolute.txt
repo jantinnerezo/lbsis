@@ -1,0 +1,126 @@
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\bin\Debug\lbsis.exe
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\bin\Debug\lbsis.pdb
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\bin\Debug\lbsis.xml
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Home.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Resources.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.vbproj.GenerateResource.Cache
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.exe
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.xml
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.pdb
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Students.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Login.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Error_dialog.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.Anecdotal.resources
+D:\Desktop Application Development\lan-based student information system\lbsis\lbsis\obj\x86\Debug\lbsis.student_profile.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.exe
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.xml
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.pdb
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Anecdotal.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Error_dialog.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Login.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Home.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Resources.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.Students.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.student_profile.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.vbproj.GenerateResource.Cache
+D:\lbsis\lbsis\obj\x86\Debug\Interop.ACROIEHELPERLib.dll
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.vbproj.ResolveComReference.cache
+D:\lbsis\lbsis\bin\Debug\lbsis.exe
+D:\lbsis\lbsis\bin\Debug\lbsis.pdb
+D:\lbsis\lbsis\bin\Debug\lbsis.xml
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.enrollmentform.resources
+D:\lbsis\lbsis\obj\x86\Debug\lbsis.enrolledlist.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.exe
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.xml
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.pdb
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\bin\Debug\lbsis.exe
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\bin\Debug\lbsis.pdb
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\bin\Debug\lbsis.xml
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Anecdotal.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.enrolledlist.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Login.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Home.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Resources.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Students.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.student_profile.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.vbproj.GenerateResource.Cache
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.registrationform.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.editform.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\bin\Debug\lbsis.exe
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\bin\Debug\lbsis.pdb
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\bin\Debug\lbsis.xml
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Anecdotal.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.editform.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.enrolledlist.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.enrollmentform.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Login.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Home.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Resources.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.registrationform.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Students.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.student_profile.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.exe
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.xml
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.pdb
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Main.resources
+C:\Users\Jan\Desktop\lbsis (2)\lbsis\obj\x86\Debug\lbsis.Add_student.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.manageusers.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.usereditform.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.userprofile.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.verification.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.subject.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.edit_subject.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.section.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.section_add.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.section_edit.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.add_sched.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.edit_sched.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.enrollment_assign.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.scheduling.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.success.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.anecstud_profile.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.add_subject.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.school_year.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.summary_stud.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.all_logs.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.Records.resources
+C:\Users\Asus-Laptop\Documents\Visual Studio 2010\Projects\lbsis\lbsis\obj\x86\Debug\lbsis.history_selection.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.exe
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.xml
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.pdb
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.add_sched.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.add_subject.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.all_logs.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Anecdotal.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.anecstud_profile.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.editform.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.edit_sched.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.edit_subject.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.enrolledlist.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.enrollment_assign.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.history_selection.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Login.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Home.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.manageusers.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Resources.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Records.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.registrationform.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.scheduling.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.school_year.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.section.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.section_add.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.section_edit.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.Students.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.student_profile.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.subject.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.success.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.summary_stud.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.usereditform.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.userprofile.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.verification.resources
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\bin\Debug\lbsis.exe
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\bin\Debug\lbsis.pdb
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\bin\Debug\lbsis.xml
+C:\Users\Jan\Desktop\revised\lbsis\lbsis\obj\x86\Debug\lbsis.classes.resources
