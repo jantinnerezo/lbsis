@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2D88FD0C-2746-436C-8796-124253FDA236}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>lbsis.My.MyApplication</StartupObject>
+    <RootNamespace>lbsis</RootNamespace>
+    <AssemblyName>lbsis</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>lbsis.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>lbsis.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_sched.Designer.vb">
+      <DependentUpon>add_sched.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_sched.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_subject.Designer.vb">
+      <DependentUpon>add_subject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_logs.Designer.vb">
+      <DependentUpon>all_logs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="all_logs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anecdotal.Designer.vb">
+      <DependentUpon>Anecdotal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Anecdotal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anecstud_profile.Designer.vb">
+      <DependentUpon>anecstud_profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="anecstud_profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classes.Designer.vb">
+      <DependentUpon>classes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="classes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connect_db.vb" />
+    <Compile Include="editform.Designer.vb">
+      <DependentUpon>editform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_sched.Designer.vb">
+      <DependentUpon>edit_sched.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_sched.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_subject.Designer.vb">
+      <DependentUpon>edit_subject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enrolledlist.Designer.vb">
+      <DependentUpon>enrolledlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="enrolledlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enrollment_assign.Designer.vb">
+      <DependentUpon>enrollment_assign.vb</DependentUpon>
+    </Compile>
+    <Compile Include="enrollment_assign.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history_selection.Designer.vb">
+      <DependentUpon>history_selection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="history_selection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlobalCodes.vb" />
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manageusers.Designer.vb">
+      <DependentUpon>manageusers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="manageusers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Records.Designer.vb">
+      <DependentUpon>Records.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Records.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrationform.Designer.vb">
+      <DependentUpon>registrationform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrationform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scheduling.Designer.vb">
+      <DependentUpon>scheduling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scheduling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="school_year.Designer.vb">
+      <DependentUpon>school_year.vb</DependentUpon>
+    </Compile>
+    <Compile Include="school_year.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="section.Designer.vb">
+      <DependentUpon>section.vb</DependentUpon>
+    </Compile>
+    <Compile Include="section.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="section_add.Designer.vb">
+      <DependentUpon>section_add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="section_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="section_edit.Designer.vb">
+      <DependentUpon>section_edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="section_edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students.Designer.vb">
+      <DependentUpon>Students.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Students.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_profile.Designer.vb">
+      <DependentUpon>student_profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="student_profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subject.Designer.vb">
+      <DependentUpon>subject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="success.Designer.vb">
+      <DependentUpon>success.vb</DependentUpon>
+    </Compile>
+    <Compile Include="success.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="summary_stud.Designer.vb">
+      <DependentUpon>summary_stud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="summary_stud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usereditform.Designer.vb">
+      <DependentUpon>usereditform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usereditform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userprofile.Designer.vb">
+      <DependentUpon>userprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verification.Designer.vb">
+      <DependentUpon>verification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="add_sched.resx">
+      <DependentUpon>add_sched.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_subject.resx">
+      <DependentUpon>add_subject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="all_logs.resx">
+      <DependentUpon>all_logs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anecdotal.resx">
+      <DependentUpon>Anecdotal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anecstud_profile.resx">
+      <DependentUpon>anecstud_profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classes.resx">
+      <DependentUpon>classes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editform.resx">
+      <DependentUpon>editform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_sched.resx">
+      <DependentUpon>edit_sched.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_subject.resx">
+      <DependentUpon>edit_subject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enrolledlist.resx">
+      <DependentUpon>enrolledlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enrollment_assign.resx">
+      <DependentUpon>enrollment_assign.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history_selection.resx">
+      <DependentUpon>history_selection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manageusers.resx">
+      <DependentUpon>manageusers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Records.resx">
+      <DependentUpon>Records.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrationform.resx">
+      <DependentUpon>registrationform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scheduling.resx">
+      <DependentUpon>scheduling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="school_year.resx">
+      <DependentUpon>school_year.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="section.resx">
+      <DependentUpon>section.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="section_add.resx">
+      <DependentUpon>section_add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="section_edit.resx">
+      <DependentUpon>section_edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students.resx">
+      <DependentUpon>Students.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_profile.resx">
+      <DependentUpon>student_profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subject.resx">
+      <DependentUpon>subject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="success.resx">
+      <DependentUpon>success.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="summary_stud.resx">
+      <DependentUpon>summary_stud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usereditform.resx">
+      <DependentUpon>usereditform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userprofile.resx">
+      <DependentUpon>userprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verification.resx">
+      <DependentUpon>verification.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit File_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ok_24px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
